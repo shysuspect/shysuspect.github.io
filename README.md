@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shysuspect
+- 👀 I’m interested in machine learning, design and social networking product
+- 🌱 I’m currently learning machine learning and design
+- 💞️ I’m looking for a job
+- 📫 How to reach me: shysuspect@gmail.com
